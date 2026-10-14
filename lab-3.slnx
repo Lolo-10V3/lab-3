@@ -7,4 +7,8 @@
   <Project Path="task-2/task-2.vcxproj" Id="4df46ef3-44e5-4ed5-88a6-09172a5d1ddf" />
   <Project Path="task-3/task-3.vcxproj" Id="60113e20-96aa-403d-8fad-4cbfee77bb44" />
   <Project Path="task-4/task-4.vcxproj" Id="3f4af03a-feed-40d0-8b99-69806d7377ac" />
+  <Project Path="task-5/task-5.vcxproj" Id="22cc0c5e-2f65-48ce-857e-13d70bbaffbf" />
+  <Project Path="task-6/task-6.vcxproj" Id="2ec569db-feff-42ac-9a40-1b3525a5ca9d" />
+  <Project Path="task-7/task-7.vcxproj" Id="6e002d85-0624-4e74-a145-9e8c1db47261" />
+  <Project Path="task-8/task-8.vcxproj" Id="f91ba846-1e58-483f-8e13-a7b899e6c868" />
 </Solution>
